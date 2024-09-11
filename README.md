@@ -1,8 +1,8 @@
-#Kristjan Kütaru
+# Kristjan Kütaru
 
 ![otsevaade](https://github.com/kusti85/sandbox/blob/main/images/mian.jpg)
 
-##Miks ma tulin õppima Haapsalu Kolledžisse?
+## Miks ma tulin õppima Haapsalu Kolledžisse?
 
 * Sessiooniõpe vormi sobivus elukorraldusega
 * Logistiliselt sobin kuna Haapsalus on naguni vaja rohkem käia.
